@@ -1,0 +1,373 @@
+[28-Jun-2019 08:30:23 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:30:37 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:31:18 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:31:26 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:31:30 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:31:33 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:31:36 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:31:39 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:31:43 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:31:46 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:31:48 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:31:51 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:35:14 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:35:33 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:46:39 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:47:12 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:47:14 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:47:15 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 08:47:15 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 08:47:15 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 184
+[28-Jun-2019 08:47:15 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 186
+[28-Jun-2019 08:47:15 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 188
+[28-Jun-2019 08:47:15 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 190
+[28-Jun-2019 08:47:15 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 192
+[28-Jun-2019 08:47:15 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 194
+[28-Jun-2019 08:47:15 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 196
+[28-Jun-2019 08:47:15 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 198
+[28-Jun-2019 08:47:15 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 200
+[28-Jun-2019 08:47:50 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 08:47:50 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 08:47:50 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 184
+[28-Jun-2019 08:47:50 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 186
+[28-Jun-2019 08:47:50 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 188
+[28-Jun-2019 08:47:50 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 190
+[28-Jun-2019 08:47:50 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 192
+[28-Jun-2019 08:47:50 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 194
+[28-Jun-2019 08:47:50 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 196
+[28-Jun-2019 08:47:50 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 198
+[28-Jun-2019 08:47:50 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 200
+[28-Jun-2019 08:48:03 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:48:17 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:48:18 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 08:48:18 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 08:48:18 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 184
+[28-Jun-2019 08:48:18 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 186
+[28-Jun-2019 08:48:18 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 188
+[28-Jun-2019 08:48:18 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 190
+[28-Jun-2019 08:48:18 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 192
+[28-Jun-2019 08:48:18 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 194
+[28-Jun-2019 08:48:18 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 196
+[28-Jun-2019 08:48:18 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 198
+[28-Jun-2019 08:48:18 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 200
+[28-Jun-2019 08:48:35 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:48:43 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:48:44 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 08:48:44 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 08:48:44 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 184
+[28-Jun-2019 08:48:44 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 186
+[28-Jun-2019 08:48:44 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 188
+[28-Jun-2019 08:48:44 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 190
+[28-Jun-2019 08:48:44 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 192
+[28-Jun-2019 08:48:44 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 194
+[28-Jun-2019 08:48:44 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 196
+[28-Jun-2019 08:48:44 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 198
+[28-Jun-2019 08:48:44 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 200
+[28-Jun-2019 08:49:57 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 08:49:57 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 08:49:57 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 183
+[28-Jun-2019 08:49:57 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 185
+[28-Jun-2019 08:49:57 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 187
+[28-Jun-2019 08:49:57 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 08:49:57 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 08:49:57 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 08:49:57 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 08:49:57 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 08:49:57 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 08:59:01 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 08:59:01 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 08:59:01 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 183
+[28-Jun-2019 08:59:01 Etc/GMT] PHP Notice:  Undefined offset: 2 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 185
+[28-Jun-2019 08:59:01 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 187
+[28-Jun-2019 08:59:01 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 08:59:01 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 08:59:01 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 08:59:01 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 08:59:01 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 08:59:01 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 08:59:09 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:59:14 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 08:59:15 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 08:59:15 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 08:59:15 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 187
+[28-Jun-2019 08:59:15 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 08:59:15 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 08:59:15 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 08:59:15 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 08:59:15 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 08:59:15 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 08:59:24 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 09:00:45 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 09:00:45 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:00:45 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:00:45 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 187
+[28-Jun-2019 09:00:45 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:00:45 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:00:45 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:00:45 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:00:45 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:00:45 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:07:22 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:07:22 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:07:22 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:07:22 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:07:22 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:07:22 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:07:22 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:07:22 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:07:22 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:08:16 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:08:16 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:08:16 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:08:16 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:08:16 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:08:16 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:08:16 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:08:16 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:08:16 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:10:26 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 09:10:28 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 09:10:50 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 09:10:55 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 09:10:55 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:10:55 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:10:55 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:10:55 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:10:55 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:10:55 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:10:55 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:10:55 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:10:55 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:16:48 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:16:48 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:16:48 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:16:48 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:16:48 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:16:48 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:16:48 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:16:48 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:16:48 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:19:32 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:19:32 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:19:32 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:19:32 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:19:32 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:19:32 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:19:32 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:19:32 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:19:32 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:21:19 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:21:19 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:21:19 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:21:19 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:21:19 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:21:19 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:21:19 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:21:19 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:21:19 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:22:09 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:22:09 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:22:09 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:22:09 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:22:09 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:22:09 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:22:09 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:22:09 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:22:09 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:22:28 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:22:28 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:22:28 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:22:28 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:22:28 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:22:28 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:22:28 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:22:28 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:22:28 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:22:44 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:22:44 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:22:44 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:22:44 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:22:44 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:22:44 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:22:44 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:22:44 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:22:44 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:23:09 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:23:09 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:23:09 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:23:09 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:23:09 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:23:09 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:23:09 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:23:09 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:23:09 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:24:42 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:24:42 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:24:42 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:24:42 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:24:42 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:24:42 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:24:42 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:24:42 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:24:42 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:25:16 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:25:16 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:25:16 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:25:16 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:25:16 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:25:16 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:25:16 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:25:16 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:25:16 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:25:36 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:25:36 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:25:36 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:25:36 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:25:36 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:25:36 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:25:36 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:25:36 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:25:36 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:36:05 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:36:05 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:36:05 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:36:05 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:36:05 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:36:05 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:36:05 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:36:05 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:36:05 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:36:25 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:36:25 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:36:25 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:36:25 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:36:25 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:36:25 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:36:25 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:36:25 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:36:25 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:37:12 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:37:12 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:37:12 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:37:12 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:37:12 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:37:12 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:37:12 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:37:12 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:37:12 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:37:41 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:37:41 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:37:41 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:37:41 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:37:41 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:37:41 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:37:41 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:37:41 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:37:41 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:39:28 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:39:28 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:39:28 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:39:28 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:39:28 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:39:28 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:39:28 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:39:28 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:39:28 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:40:17 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:40:17 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:40:17 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:40:17 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:40:17 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:40:17 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:40:17 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:40:17 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:40:17 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:40:46 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:40:46 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:40:46 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:40:46 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:40:46 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:40:46 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:40:46 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:40:46 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:40:46 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:42:33 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:42:33 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:42:33 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:42:33 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:42:33 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:42:33 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:42:33 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:42:33 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:42:33 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:44:44 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:44:44 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:44:44 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:44:44 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:44:44 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:44:44 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:44:44 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:44:44 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:44:44 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:45:42 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:45:42 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:45:42 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:45:42 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:45:42 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:45:42 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:45:42 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:45:42 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:45:42 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:45:52 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:45:52 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:45:52 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:45:52 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:45:52 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:45:52 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:45:52 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:45:52 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:45:52 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:48:03 Etc/GMT] PHP Notice:  Undefined index: source in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 42
+[28-Jun-2019 09:48:03 Etc/GMT] PHP Notice:  Undefined index: destination in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 43
+[28-Jun-2019 09:48:03 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 189
+[28-Jun-2019 09:48:03 Etc/GMT] PHP Notice:  Undefined offset: 4 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 191
+[28-Jun-2019 09:48:03 Etc/GMT] PHP Notice:  Undefined offset: 5 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 193
+[28-Jun-2019 09:48:03 Etc/GMT] PHP Notice:  Undefined offset: 6 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 195
+[28-Jun-2019 09:48:03 Etc/GMT] PHP Notice:  Undefined offset: 7 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 197
+[28-Jun-2019 09:48:03 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 199
+[28-Jun-2019 09:48:03 Etc/GMT] PHP Notice:  Undefined offset: 9 in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/edit_route.php on line 201
+[28-Jun-2019 09:52:02 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 09:52:04 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 09:52:13 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 09:52:19 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[28-Jun-2019 09:52:19 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 123
+[28-Jun-2019 09:52:19 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 152
+[28-Jun-2019 14:20:10 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 123
+[28-Jun-2019 14:20:10 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 152
+[29-Jun-2019 07:25:39 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 123
+[29-Jun-2019 07:25:39 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 152
+[05-Jul-2019 17:09:34 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 123
+[05-Jul-2019 17:09:34 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 152
+[05-Jul-2019 17:10:00 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[05-Jul-2019 17:10:10 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[05-Jul-2019 17:35:37 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[05-Jul-2019 17:35:49 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[06-Jul-2019 11:32:03 Etc/GMT] PHP Notice:  Undefined index: end in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 76
+[06-Jul-2019 11:32:03 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[06-Jul-2019 11:32:08 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 123
+[06-Jul-2019 11:32:08 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 152
+[06-Jul-2019 11:32:08 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 123
+[06-Jul-2019 11:32:08 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 152
+[07-Jul-2019 05:43:52 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 123
+[07-Jul-2019 05:43:52 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 152
+[23-Jul-2019 13:54:12 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 123
+[23-Jul-2019 13:54:12 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 152
+[23-Jul-2019 13:54:15 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[23-Jul-2019 13:54:20 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[23-Jul-2019 13:54:25 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[24-Jul-2019 09:32:59 Etc/GMT] PHP Notice:  Undefined index: end in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 76
+[24-Jul-2019 09:32:59 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[24-Jul-2019 09:32:59 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 123
+[24-Jul-2019 09:32:59 Etc/GMT] PHP Notice:  Undefined variable: message in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/adminLogin.php on line 152
+[24-Jul-2019 09:33:06 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617
+[24-Jul-2019 09:33:20 Etc/GMT] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/nadaa93i/public_html/bazar4you.online/gaurav/Jrarron/admin/web/tables.php on line 617

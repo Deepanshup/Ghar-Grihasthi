@@ -1,0 +1,11 @@
+[27-Feb-2020 13:35:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/avalakbu/jobmafiaa.com/products/lavina/admin/truck_app/admin/index.php on line 29
+[27-Feb-2020 13:35:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'nadaa93i_gaurav'@'localhost' (using password: YES) in /home2/avalakbu/jobmafiaa.com/products/lavina/admin/truck_app/admin/index.php on line 37
+[27-Feb-2020 13:36:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/avalakbu/jobmafiaa.com/products/lavina/admin/truck_app/admin/index.php on line 29
+[27-Feb-2020 13:36:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'nadaa93i_gaurav'@'localhost' (using password: YES) in /home2/avalakbu/jobmafiaa.com/products/lavina/admin/truck_app/admin/index.php on line 37
+[27-Feb-2020 13:36:06 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home2/avalakbu/jobmafiaa.com/products/lavina/admin/truck_app/admin/index.php on line 43
+[27-Feb-2020 13:36:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home2/avalakbu/jobmafiaa.com/products/lavina/admin/truck_app/admin/index.php:43
+Stack trace:
+#0 {main}
+  thrown in /home2/avalakbu/jobmafiaa.com/products/lavina/admin/truck_app/admin/index.php on line 43
+[27-Feb-2020 13:36:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/avalakbu/jobmafiaa.com/products/lavina/admin/truck_app/admin/index.php on line 29
+[27-Feb-2020 13:36:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'nadaa93i_gaurav'@'localhost' (using password: YES) in /home2/avalakbu/jobmafiaa.com/products/lavina/admin/truck_app/admin/index.php on line 37

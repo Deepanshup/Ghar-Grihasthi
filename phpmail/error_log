@@ -1,0 +1,2 @@
+[27-Feb-2020 10:14:12 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/avalakbu/jobmafiaa.com/products/lavina/phpmail/PHPMailerAutoload.php on line 16
+[27-Feb-2020 10:14:15 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/avalakbu/jobmafiaa.com/products/lavina/phpmail/PHPMailerAutoload.php on line 16

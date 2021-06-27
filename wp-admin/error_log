@@ -1,0 +1,68 @@
+[17-Mar-2020 09:03:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function current_user_can() in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/functions.php:7423
+Stack trace:
+#0 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-settings.php(107): require()
+#1 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-config.php(90): require_once('/home2/avalakbu...')
+#2 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-load.php(37): require_once('/home2/avalakbu...')
+#3 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-admin/admin.php(34): require_once('/home2/avalakbu...')
+#4 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-admin/index.php(10): require_once('/home2/avalakbu...')
+#5 {main}
+  thrown in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/functions.php on line 7423
+[17-Mar-2020 09:03:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/formatting.php:4316
+Stack trace:
+#0 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/formatting.php on line 4316
+[17-Mar-2020 09:03:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function current_user_can() in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/functions.php:7423
+Stack trace:
+#0 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-settings.php(107): require()
+#1 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-config.php(90): require_once('/home2/avalakbu...')
+#2 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-load.php(37): require_once('/home2/avalakbu...')
+#3 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-admin/admin.php(34): require_once('/home2/avalakbu...')
+#4 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-admin/index.php(10): require_once('/home2/avalakbu...')
+#5 {main}
+  thrown in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/functions.php on line 7423
+[17-Mar-2020 09:03:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/formatting.php:4316
+Stack trace:
+#0 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/formatting.php on line 4316
+[17-Mar-2020 09:04:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function current_user_can() in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/functions.php:7424
+Stack trace:
+#0 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-settings.php(107): require()
+#1 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-config.php(90): require_once('/home2/avalakbu...')
+#2 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-load.php(37): require_once('/home2/avalakbu...')
+#3 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-admin/admin.php(34): require_once('/home2/avalakbu...')
+#4 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-admin/index.php(10): require_once('/home2/avalakbu...')
+#5 {main}
+  thrown in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/functions.php on line 7424
+[17-Mar-2020 09:04:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/formatting.php:4316
+Stack trace:
+#0 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/formatting.php on line 4316
+[17-Mar-2020 09:05:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function current_user_can() in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/functions.php:7424
+Stack trace:
+#0 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-settings.php(107): require()
+#1 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-config.php(90): require_once('/home2/avalakbu...')
+#2 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-load.php(37): require_once('/home2/avalakbu...')
+#3 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-admin/admin.php(34): require_once('/home2/avalakbu...')
+#4 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-admin/index.php(10): require_once('/home2/avalakbu...')
+#5 {main}
+  thrown in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/functions.php on line 7424
+[17-Mar-2020 09:05:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/formatting.php:4316
+Stack trace:
+#0 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in /home2/avalakbu/jobmafiaa.com/products/ghargrihasti/wp-includes/formatting.php on line 4316
